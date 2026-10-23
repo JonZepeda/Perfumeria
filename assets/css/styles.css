@@ -668,8 +668,8 @@ footer a:hover {
 /* ===== FLOATING WHATSAPP ===== */
 .whatsapp {
   position: fixed;
-  right: 20px;
-  bottom: 20px;
+  right: 22px;
+  bottom: 22px;
   width: 60px;
   height: 60px;
   border-radius: 50%;
@@ -678,9 +678,21 @@ footer a:hover {
   background: #25d366;
   color: #fff;
   box-shadow: 0 12px 35px #000c;
-  z-index: 20;
+  z-index: 2147483647;
   border: 2px solid #dfffe9;
   transition: transform .2s ease, box-shadow .2s ease;
+}
+
+/* Ocultar widgets/badges inyectados por plataformas de hosting (ej. Powered by Netlify) */
+a[href*="netlify.com"],
+div[class*="netlify"],
+iframe[src*="netlify"],
+#netlify-badge,
+.netlify-badge {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
 }
 
 .whatsapp:hover {

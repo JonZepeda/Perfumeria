@@ -131,4 +131,25 @@
 
   // Initial run
   applyFiltersAndSort();
+
+  // Remove any third-party hosting badge ("Powered by Netlify") that overlaps the floating WhatsApp button
+  const cleanInjectedBadges = () => {
+    document.querySelectorAll('body > *:not(header):not(section):not(main):not(footer):not(a.whatsapp):not(script)').forEach((el) => {
+      const txt = (el.textContent || '').toLowerCase();
+      const html = (el.innerHTML || '').toLowerCase();
+      if (txt.includes('netlify') || html.includes('netlify') || el.tagName === 'IFRAME' || el.shadowRoot) {
+        el.remove();
+      }
+    });
+    document.querySelectorAll('a[href*="netlify"]').forEach((el) => {
+      const container = el.closest('div') || el;
+      if (!container.closest('main') && !container.closest('header')) {
+        container.remove();
+      }
+    });
+  };
+
+  cleanInjectedBadges();
+  const observer = new MutationObserver(cleanInjectedBadges);
+  observer.observe(document.documentElement, { childList: true, subtree: true });
 })();

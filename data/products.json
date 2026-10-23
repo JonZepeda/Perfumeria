@@ -1,0 +1,477 @@
+[
+  {
+    "id": 1,
+    "slug": "khamrah",
+    "name": "Khamrah",
+    "originalName": "Khamrah",
+    "searchKey": "khamrah",
+    "category": "Perfume árabe",
+    "occasion": "noche",
+    "occasionLabel": "🌙 Noche",
+    "price": 345,
+    "priceFormatted": "Q345",
+    "image": "assets/img/products/khamrah.jpg",
+    "notes": {
+      "salida": "Canela, nuez moscada y bergamota",
+      "corazon": "Dátil, praliné, nardo y mahonial",
+      "fondo": "Vainilla, haba tonka, amberwood, mirra, benjuí y akigalawood"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Khamrah%20por%20Q345.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 2,
+    "slug": "khamrah-waha",
+    "name": "Lattafa Khamrah Waha",
+    "originalName": "Lattafa Khamrah Waha",
+    "searchKey": "khamrah waha",
+    "category": "Perfume árabe",
+    "occasion": "dia",
+    "occasionLabel": "☀️ Día",
+    "price": 345,
+    "priceFormatted": "Q345",
+    "image": "assets/img/products/khamrah-waha.jpg",
+    "notes": {
+      "salida": "Bergamota, yuzu, enebro, jengibre",
+      "corazon": "Pepino, sal marina, iris, salvia",
+      "fondo": "Vainilla, haba tonka, almizcle, Ambrofix™, Akigalawood™"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Lattafa%20Khamrah%20Waha%20por%20Q345.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 3,
+    "slug": "oud-for-glory",
+    "name": "Oud for Glory",
+    "originalName": "Oud for Glory",
+    "searchKey": "oud for glory",
+    "category": "Perfume árabe",
+    "occasion": "noche",
+    "occasionLabel": "🌙 Noche",
+    "price": 310,
+    "priceFormatted": "Q310",
+    "image": "assets/img/products/oud-for-glory.jpg",
+    "notes": {
+      "salida": "Azafrán, nuez moscada y lavanda",
+      "corazon": "Oud y pachulí",
+      "fondo": "Oud, pachulí y almizcle"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Oud%20for%20Glory%20por%20Q310.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 4,
+    "slug": "fakhar-extrait",
+    "name": "Fakhar Extrait",
+    "originalName": "Fakhar Extrait",
+    "searchKey": "fakhar extrait",
+    "category": "Perfume árabe",
+    "occasion": "dia",
+    "occasionLabel": "☀️ Día",
+    "price": 300,
+    "priceFormatted": "Q300",
+    "image": "assets/img/products/fakhar-extrait.jpg",
+    "notes": {
+      "salida": "Pomelo, pimienta rosa y cardamomo",
+      "corazon": "Nardo, acorde solar y artemisia",
+      "fondo": "Ámbar, cashmeran, cuero y ládano"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Fakhar%20Extrait%20por%20Q300.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 5,
+    "slug": "his-confession",
+    "name": "His Confession",
+    "originalName": "His Confession",
+    "searchKey": "his confession",
+    "category": "Perfume árabe",
+    "occasion": "noche",
+    "occasionLabel": "🌙 Noche",
+    "price": 325,
+    "priceFormatted": "Q325",
+    "image": "assets/img/products/his-confession.jpg",
+    "notes": {
+      "salida": "Mandarina, canela y lavanda",
+      "corazon": "Iris, ciprés, benjuí y mahonial",
+      "fondo": "Vainilla, haba tonka, pachulí, cedro, incienso y ámbar"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20His%20Confession%20por%20Q325.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 6,
+    "slug": "asad",
+    "name": "Asad",
+    "originalName": "Asad",
+    "searchKey": "asad",
+    "category": "Perfume árabe",
+    "occasion": "noche",
+    "occasionLabel": "🌙 Noche",
+    "price": 320,
+    "priceFormatted": "Q320",
+    "image": "assets/img/products/asad.jpg",
+    "notes": {
+      "salida": "Pimienta negra, piña y tabaco",
+      "corazon": "Pachulí, café e iris",
+      "fondo": "Vainilla, ámbar, maderas secas, benjuí y ládano"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Asad%20por%20Q320.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 7,
+    "slug": "asad-zanzibar",
+    "name": "Asad Zanzibar",
+    "originalName": "Asad Zanzibar",
+    "searchKey": "asad zanzibar",
+    "category": "Perfume árabe",
+    "occasion": "dia",
+    "occasionLabel": "☀️ Día",
+    "price": 320,
+    "priceFormatted": "Q320",
+    "image": "assets/img/products/asad-zanzibar.jpg",
+    "notes": {
+      "salida": "Lavanda y pimienta negra",
+      "corazon": "Agua de coco, iris y sal",
+      "fondo": "Vainilla e incienso"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Asad%20Zanzibar%20por%20Q320.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 8,
+    "slug": "asad-bourbon",
+    "name": "Asad Bourbon",
+    "originalName": "Asad Bourbon",
+    "searchKey": "asad bourbon",
+    "category": "Perfume árabe",
+    "occasion": "noche",
+    "occasionLabel": "🌙 Noche",
+    "price": 320,
+    "priceFormatted": "Q320",
+    "image": "assets/img/products/asad-bourbon.png",
+    "notes": {
+      "salida": "Lavanda, mirabel y pimienta rosa",
+      "corazon": "Cacao, nuez moscada y davana",
+      "fondo": "Vainilla bourbon, ámbar y vetiver"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Asad%20Bourbon%20por%20Q320.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 9,
+    "slug": "asad-elixir",
+    "name": "Asad Elixir",
+    "originalName": "Asad Elixir",
+    "searchKey": "asad elixir",
+    "category": "Perfume árabe",
+    "occasion": "noche",
+    "occasionLabel": "🌙 Noche",
+    "price": 320,
+    "priceFormatted": "Q320",
+    "image": "assets/img/products/asad-elixir.jpg",
+    "notes": {
+      "salida": "Pimienta rosa, azafrán y pomelo",
+      "corazon": "Tabaco, cedro y vainilla",
+      "fondo": "Pachulí, olíbano, cashmeran y ámbar seco"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Asad%20Elixir%20por%20Q320.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 10,
+    "slug": "mandarynsky-elixir",
+    "name": "Mandarin Sky Elixir",
+    "originalName": "MandarynSky Elixir",
+    "searchKey": "mandarynsky elixir",
+    "category": "Perfume árabe",
+    "occasion": "dia",
+    "occasionLabel": "☀️ Día",
+    "price": 335,
+    "priceFormatted": "Q335",
+    "image": "assets/img/products/mandarynsky-elixir.jpg",
+    "notes": {
+      "salida": "Mandarina, naranja, lavanda, cardamomo y pimienta",
+      "corazon": "Caramelo, haba tonka, tagetes",
+      "fondo": "Vetiver, cedro y ambroxan"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20MandarynSky%20Elixir%20por%20Q335.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 11,
+    "slug": "mandarinvintage",
+    "name": "Mandarin Sky Vintage",
+    "originalName": "MandarinVintage",
+    "searchKey": "mandarinvintage",
+    "category": "Perfume árabe",
+    "occasion": "dia",
+    "occasionLabel": "☀️ Día",
+    "price": 335,
+    "priceFormatted": "Q335",
+    "image": "assets/img/products/mandarinvintage.jpg",
+    "notes": {
+      "salida": "Notas verdes y naranja",
+      "corazon": "Madreselva, nardo y jazmín egipcio",
+      "fondo": "Vainilla, iris y sándalo"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20MandarinVintage%20por%20Q335.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 12,
+    "slug": "odyssey-dubai",
+    "name": "Odyssey Dubai",
+    "originalName": "Odyssey Dubai",
+    "searchKey": "odyssey dubai",
+    "category": "Perfume árabe",
+    "occasion": "noche",
+    "occasionLabel": "🌙 Noche",
+    "price": 290,
+    "priceFormatted": "Q290",
+    "image": "assets/img/products/odyssey-dubai.jpg",
+    "notes": {
+      "salida": "Café, pistacho, praliné, avellana y Knafeh",
+      "corazon": "Chocolate, vainilla y cardamomo",
+      "fondo": "Caramelo, haba tonka y amberwood"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Odyssey%20Dubai%20por%20Q290.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 13,
+    "slug": "odyssey-homme",
+    "name": "Odyssey Homme",
+    "originalName": "Odyssey Homme",
+    "searchKey": "odyssey homme",
+    "category": "Perfume árabe",
+    "occasion": "dia",
+    "occasionLabel": "☀️ Día",
+    "price": 290,
+    "priceFormatted": "Q290",
+    "image": "assets/img/products/odyssey-homme.jpg",
+    "notes": {
+      "salida": "Cardamomo, mandarina y neroli",
+      "corazon": "Flor de azahar y rosa",
+      "fondo": "Vainilla, maderas, ámbar y sándalo"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Odyssey%20home%20por%20Q290.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 14,
+    "slug": "odyssey-artisto",
+    "name": "Odyssey Artisto",
+    "originalName": "Odyssey artisto",
+    "searchKey": "odyssey artisto",
+    "category": "Perfume árabe",
+    "occasion": "dia",
+    "occasionLabel": "☀️ Día",
+    "price": 290,
+    "priceFormatted": "Q290",
+    "image": "assets/img/products/odyssey-artisto.jpg",
+    "notes": {
+      "salida": "Bergamota, notas de nuez y salvia",
+      "corazon": "Coco, frutas tropicales y canela",
+      "fondo": "Ámbar, vainilla y haba tonka"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Odyssey%20artisto%20por%20Q290.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 15,
+    "slug": "odyssey-limon",
+    "name": "Odyssey Limón",
+    "originalName": "Odyssey limón",
+    "searchKey": "odyssey limón",
+    "category": "Perfume árabe",
+    "occasion": "dia",
+    "occasionLabel": "☀️ Día",
+    "price": 290,
+    "priceFormatted": "Q290",
+    "image": "assets/img/products/odyssey-limon.jpg",
+    "notes": {
+      "salida": "Limón, naranja dulce, mandarina y bergamota",
+      "corazon": "Flor de azahar, notas marinas y jengibre",
+      "fondo": "Té, almizcle y ámbar"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Odyssey%20lim%C3%B3n%20por%20Q290.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 16,
+    "slug": "odyssey-home-white",
+    "name": "Odyssey Homme White Edition",
+    "originalName": "Odyssey Homme White Edition",
+    "searchKey": "odyssey home white",
+    "category": "Perfume árabe",
+    "occasion": "dia",
+    "occasionLabel": "☀️ Día",
+    "price": 290,
+    "priceFormatted": "Q290",
+    "image": "assets/img/products/odyssey-home-white.jpg",
+    "notes": {
+      "salida": "Cardamomo, pimienta rosa y menta",
+      "corazon": "Notas acuáticas, salvia y piña",
+      "fondo": "Amberwood, vainilla y cedro"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Odyssey%20home%20white%20por%20Q290.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 17,
+    "slug": "hayati",
+    "name": "Hayati",
+    "originalName": "Hayati",
+    "searchKey": "hayati",
+    "category": "Perfume árabe",
+    "occasion": "noche",
+    "occasionLabel": "🌙 Noche",
+    "price": 325,
+    "priceFormatted": "Q325",
+    "image": "assets/img/products/hayati.webp",
+    "notes": {
+      "salida": "Nuez moscada, pimienta rosa, jengibre y bergamota",
+      "corazon": "Incienso, cedro, ládano y maderas",
+      "fondo": "Ámbar, almizcle y ámbar gris"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Hayati%20por%20Q325.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 18,
+    "slug": "mousuf-aswad",
+    "name": "Mousuf Aswad",
+    "originalName": "Mousuf Aswad",
+    "searchKey": "mousuf aswad",
+    "category": "Perfume árabe",
+    "occasion": "noche",
+    "occasionLabel": "🌙 Noche",
+    "price": 320,
+    "priceFormatted": "Q320",
+    "image": "assets/img/products/mousuf-aswad.webp",
+    "notes": {
+      "salida": "Piña, manzana, uvas negras y bergamota",
+      "corazon": "Jazmín, pachulí y abedul",
+      "fondo": "Almizcle, ámbar, vainilla y musgo de roble"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Mousuf%20Aswad%20por%20Q320.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 19,
+    "slug": "club-de-nuit",
+    "name": "Club de Nuit",
+    "originalName": "Club de Nuit",
+    "searchKey": "club de nuit",
+    "category": "Perfume árabe",
+    "occasion": "dia",
+    "occasionLabel": "☀️ Día",
+    "price": 335,
+    "priceFormatted": "Q335",
+    "image": "assets/img/products/club-de-nuit.jpg",
+    "notes": {
+      "salida": "Limón, piña, bergamota, grosella negra y manzana",
+      "corazon": "Abedul, jazmín y rosa",
+      "fondo": "Almizcle, ámbar gris, pachulí y vainilla"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Club%20de%20Nuit%20por%20Q335.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 20,
+    "slug": "hawas-fire",
+    "name": "Rasasi Hawas Fire",
+    "originalName": "Rasasi Hawas Fire",
+    "searchKey": "hawas fire",
+    "category": "Perfume árabe",
+    "occasion": "dia",
+    "occasionLabel": "☀️ Día",
+    "price": 345,
+    "priceFormatted": "Q345",
+    "image": "assets/img/products/hawas-fire.jpg",
+    "notes": {
+      "salida": "Salvia esclarea",
+      "corazon": "Notas marinas, jazmín egipcio",
+      "fondo": "Ámbar gris, ámbar mineral"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Rasasi%20Hawas%20Fire%20por%20Q345.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 21,
+    "slug": "hawas-ice",
+    "name": "Rasasi Hawas Ice",
+    "originalName": "Rasasi Hawas Ice",
+    "searchKey": "hawas ice",
+    "category": "Perfume árabe",
+    "occasion": "dia",
+    "occasionLabel": "☀️ Día",
+    "price": 345,
+    "priceFormatted": "Q345",
+    "image": "assets/img/products/hawas-ice.jpg",
+    "notes": {
+      "salida": "Manzana helada, bergamota italiana, limón italiano, anís estrellado",
+      "corazon": "Flor de azahar, acorde marino helado, ciruela, cardamomo de Ceilán",
+      "fondo": "Musgo cristalino, madera flotante, ámbar, almizcle"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Rasasi%20Hawas%20Ice%20por%20Q345.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 22,
+    "slug": "hawas-pink",
+    "name": "Rasasi Hawas Pink",
+    "originalName": "Rasasi Hawas Pink",
+    "searchKey": "hawas pink",
+    "category": "Perfume árabe",
+    "occasion": "dia",
+    "occasionLabel": "☀️ Día",
+    "price": 335,
+    "priceFormatted": "Q335",
+    "image": "assets/img/products/hawas-pink.jpg",
+    "notes": {
+      "salida": "Canela, nuez moscada, neroli",
+      "corazon": "Malvavisco, nardos, flor de azahar",
+      "fondo": "Algodón de azúcar, vainilla, haba tonka"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Rasasi%20Hawas%20Pink%20por%20Q335.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 23,
+    "slug": "khamrah-qahwa",
+    "name": "Lattafa Khamrah Qahwa",
+    "originalName": "Lattafa Khamrah Qahwa",
+    "searchKey": "khamrah qahwa",
+    "category": "Perfume árabe",
+    "occasion": "noche",
+    "occasionLabel": "🌙 Noche",
+    "price": 345,
+    "priceFormatted": "Q345",
+    "image": "assets/img/products/khamrah-qahwa.jpg",
+    "notes": {
+      "salida": "Canela, cardamomo y jengibre",
+      "corazon": "Praliné, frutas confitadas y flores blancas",
+      "fondo": "Café arábica, vainilla, haba tonka, benjuí y almizcle"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Lattafa%20Khamrah%20Qahwa%20por%20Q345.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 24,
+    "slug": "khamrah-karaz",
+    "name": "Lattafa Khamrah Karaz",
+    "originalName": "Lattafa Khamrah Karaz",
+    "searchKey": "khamrah karaz",
+    "category": "Perfume árabe",
+    "occasion": "noche",
+    "occasionLabel": "🌙 Noche",
+    "price": 345,
+    "priceFormatted": "Q345",
+    "image": "assets/img/products/khamrah-karaz.jpg",
+    "notes": {
+      "salida": "Cereza negra, licor de cereza, canela",
+      "corazon": "Dátiles, praliné, almendra amarga, notas florales",
+      "fondo": "Vainilla, haba tonka, ámbar, maderas nobles, benjuí"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Lattafa%20Khamrah%20Karaz%20por%20Q345.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  },
+  {
+    "id": 25,
+    "slug": "supremacy-not-only-intense",
+    "name": "Afnan Supremacy Not Only Intense",
+    "originalName": "Afnan Supremacy Not Only Intense",
+    "searchKey": "supremacy not only intense",
+    "category": "Perfume árabe",
+    "occasion": "noche",
+    "occasionLabel": "🌙 Noche",
+    "price": 335,
+    "priceFormatted": "Q335",
+    "image": "assets/img/products/supremacy-not-only-intense.jpg",
+    "notes": {
+      "salida": "Bergamota, manzana, grosella negra",
+      "corazon": "Lavanda, pachulí, musgo de roble",
+      "fondo": "Azafrán, almizcle, ámbar gris"
+    },
+    "whatsappUrl": "https://wa.me/50235691502?text=Hola%2C%20quiero%20pedir%20Afnan%20Supremacy%20Not%20Only%20Intense%20por%20Q335.%20%C2%BFMe%20pueden%20indicar%20disponibilidad%20y%20env%C3%ADo%3F"
+  }
+]
